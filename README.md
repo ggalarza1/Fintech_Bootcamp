@@ -11,7 +11,7 @@ The notebooks below are homeworks I submitted.
 
 * [Python Homework](https://github.com/ggalarza1/python-homework)
 
-* [A Whale off the Portfolio](https://github.com/ggalarza1/a_whale_off_the_portfolio)
+* [A Whale off the Portfolio](https://github.com/ggalarza1/a_whale_off_the_porfolio)
 
 * [Financial Planning](https://github.com/ggalarza1/financial_planning)
 
