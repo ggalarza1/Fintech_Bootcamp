@@ -45,4 +45,4 @@ Project 2
 * [DEEGA ETF](absahir/DEEGA-s-ETF)
 
 Project 3
-* [Win_Zip_NFT](absahir/Win_Zip_NFT) 
+* [Ohio - Win Zip NFT](absahir/Win_Zip_NFT) 
