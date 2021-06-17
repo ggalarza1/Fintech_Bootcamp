@@ -7,42 +7,42 @@ During the six month Fintech Bootcamp at Columbia University, I was exposed to v
 
 The notebooks below are homeworks I submitted.
 
-* [Mint Case Study](Mint_case_study)
+* [Mint Case Study](https://github.com/ggalarza1/Mint_case_study)
 
-* [Python Homework](python_homework)
+* [Python Homework](https://github.com/ggalarza1/python_homework)
 
-* [A Whale off the Portfolio](a_whale_off_the_portfolio)
+* [A Whale off the Portfolio](https://github.com/ggalarza1/a_whale_off_the_portfolio)
 
-* [Financial Planning](financial_planning)
+* [Financial Planning](https://github.com/ggalarza1/financial_planning)
 
-* [Pythonic Monopoly](pythonic_monopoly)
+* [Pythonic Monopoly](https://github.com/ggalarza1/pythonic_monopoly)
 
-* [A Yen for the Future](a_yen_for_the_future)
+* [A Yen for the Future](https://github.com/ggalarza1/a_yen_for_the_future)
 
-* [Risky business](risky_business)
+* [Risky business](https://github.com/ggalarza1/risky_business)
 
-* [A bot using AWS](The-power-of-the-Cloud-and-Unsupervised-Learning)
+* [A bot using AWS](https://github.com/ggalarza1/The-power-of-the-Cloud-and-Unsupervised-Learning)
 
-* [LSTM Stock Predictor](LSTM-Stock-Predictor)
+* [LSTM Stock Predictor](https://github.com/ggalarza1/LSTM-Stock-Predictor)
 
-* [Proof of Authority Development Chain](Proof-of-Authority-Development-Chain)
+* [Proof of Authority Development Chain](https://github.com/ggalarza1/Proof-of-Authority-Development-Chain)
 
-* [Tales from the Crypto](Tales-from-the-Crypto)
+* [Tales from the Crypto](https://github.com/ggalarza1/Tales-from-the-Crypto)
 
-* [Looks like we've made our first contract](looks_like_we-ve-made_our_first_contract)
+* [Looks like we've made our first contract](https://github.com/ggalarza1/looks_like_we-ve-made_our_first_contract)
 
-* [You sure can attract a crowd- CrowdSale](you_sure_can_attract_a_crowd)
+* [You sure can attract a crowd- CrowdSale](https://github.com/ggalarza1/you_sure_can_attract_a_crowd)
 
-* [Multi-Blockchain Wallet in Python](Multi-Blockchain-Wallet-in-Python)
+* [Multi-Blockchain Wallet in Python](https://github.com/ggalarza1/Multi-Blockchain-Wallet-in-Python)
 
 
 ## Projects ##
 
 Project 1
-* [DEGA StockScreener](absahir/D.E.G.A._StockScreener)
+* [DEGA StockScreener](https://github.com/absahir/D.E.G.A._StockScreener)
 
 Project 2
-* [DEEGA ETF](absahir/DEEGA-s-ETF)
+* [DEEGA ETF](https://github.com/absahir/DEEGA-s-ETF)
 
 Project 3
-* [Ohio - Win Zip NFT](absahir/Win_Zip_NFT) 
+* [Ohio - Win Zip NFT](https://github.com/absahir/Win_Zip_NFT) 
