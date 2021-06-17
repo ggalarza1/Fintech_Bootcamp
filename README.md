@@ -9,7 +9,7 @@ The notebooks below are homeworks I submitted.
 
 * [Mint Case Study](https://github.com/ggalarza1/Mint_case_study)
 
-* [Python Homework](https://github.com/ggalarza1/python_homework)
+* [Python Homework](https://github.com/ggalarza1/python-homework)
 
 * [A Whale off the Portfolio](https://github.com/ggalarza1/a_whale_off_the_portfolio)
 
